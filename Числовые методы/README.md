@@ -5,11 +5,7 @@
 Производная/Интеграл/Дифференциальные уравнения
 Excel/Python Mathplotlib
 
-https://docs.google.com/spreadsheets/d/1BVvawgRpU92UA2I7TxDwIxOhfY3nxrhpOlVlfGNQS0s/edit?usp=sharing
-
-2 часть:
-
-https://docs.google.com/spreadsheets/d/1wc-VA7KR6cpUBlM_Z6kmQUDay_arYkL5c0GFcSzYP0g/edit?pli=1#gid=0
+https://docs.google.com/spreadsheets/d/1c9NQyBiNL_HUuLSqcAb6b2yfFPsBwOUL/edit?usp=drive_link&ouid=100788402807231534057&rtpof=true&sd=true
 
 Реплит
 https://replit.com/@Voidrome/Chisliennyie-mietody#main.py
