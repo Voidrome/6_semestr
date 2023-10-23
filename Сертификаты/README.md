@@ -3,4 +3,5 @@
 
 ![angl](https://github.com/Voidrome/5_semestr/assets/113089411/55511080-ad30-4c89-a627-7375905356eb)
 
-![1с](https://github.com/Voidrome/5_semestr/assets/113089411/2fa88915-d5c4-4b48-bdac-1e742e24baa1)
+![1с](https://github.com/Voidrome/5_semestr/assets/113089411/99520e5d-fe34-4193-8273-1dbe71b5878e)
+
