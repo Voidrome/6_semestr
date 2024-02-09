@@ -3,6 +3,7 @@
 ![diploma-s569749](https://github.com/Voidrome/6_semestr/assets/113089411/3a33c13b-9273-4606-abc3-3da6137a0a7a)
 
 2. Рисуй с нами (Сертификат)
+https://рисуйснами.рф/request/324682
 ![124486-s-324682-50387-h](https://github.com/Voidrome/6_semestr/assets/113089411/f585133c-eb1e-4897-b6b0-63b710eece1c)
 
 3. Рисуй с нами (Диплом)
