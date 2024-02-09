@@ -1,2 +1,2 @@
 Ссылка на коллаб
-https://colab.research.google.com/drive/11yo5eY-DKfSuO-A96sck0uwLr2nfYq22
+https://colab.research.google.com/drive/1r8hq99FLOfz-5zkZecNERtNg3fdVs8Jv?usp=sharing
