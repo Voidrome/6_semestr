@@ -2,7 +2,9 @@
 
 ОСНОВЫ ТЕСТИРОВАНИЯ
 
-image image image
+![298481091-8cf150f2-597b-43bc-ba0c-98c1c44fb23a](https://github.com/Voidrome/6_semestr/assets/113089411/4bae2e5e-67cb-4a3a-badc-ba1b3e8a9584)
+![298481203-a51c0ae6-25e5-4d78-b8cc-5cbc11b006b1](https://github.com/Voidrome/6_semestr/assets/113089411/baee145c-558d-432c-bb5e-108adb7f71c1)
+![298481270-4dfd753f-307a-4b0a-b1b8-b9c5e54e78ba](https://github.com/Voidrome/6_semestr/assets/113089411/ea107ad2-be93-47c5-8b9d-00da843356bc)
 
 Требования к тестировщика:
 
@@ -39,14 +41,14 @@ image image image
 
 Неккоректные требования :
 Раскладка клавиатуры 100 на 100
-image
+![298496062-504e572e-4674-4cab-a0c0-4f69fbea8c3f](https://github.com/Voidrome/6_semestr/assets/113089411/16b8fd5c-852a-43da-8067-0086ec70b031)
 
 Ошибка в проектировании :
 
 Неправильная БД
 ВЕРИФИКАЦИЯ VS ВАЛИДАЦИЯ
 
-image
+![298511237-07d5d5bf-8143-43aa-9608-bc34cb1f2cfb](https://github.com/Voidrome/6_semestr/assets/113089411/20158ecf-f6d3-4bcd-8e46-59baaf784b29)
 
 Качество :
 
@@ -77,3 +79,7 @@ image
 Парадокс пестецида ( потвторяя одно и тоже, новые дефекты не найти )
 Тестирование зависит от контекста
 Заблуждение в отсутствии ошбики ( не забываем про пользователя )
+
+
+
+
