@@ -17,3 +17,6 @@ https://drive.google.com/file/d/1jlLSuLcsOcGHQZ_Kq32v0UkCJAW9LxrF/view?usp=drive
 2. Анимации (проигрывание видео)
 3. API
 4. Язык программирования
+
+Приложение завода
+
