@@ -20,4 +20,4 @@ https://drive.google.com/file/d/1jlLSuLcsOcGHQZ_Kq32v0UkCJAW9LxrF/view?usp=drive
 
 Приложение завода
 
-https://colab.research.google.com/drive/1aIrRbOdVQg2OKUglUT74U7tqRsnpZbeW?ouid=100788402807231534057&usp=drive_link
+https://x.thunkable.com/copy/c355ec51c076893d99e86d3b71fe0160
